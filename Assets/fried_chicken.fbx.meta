@@ -3,7 +3,12 @@ guid: 59ad3c34b82db874289132bc19a95a73
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FriedChickenDrumstick
+    second: {fileID: 2100000, guid: f3782e5337e53f4498263d253036bc18, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

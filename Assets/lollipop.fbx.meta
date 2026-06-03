@@ -3,7 +3,17 @@ guid: 7ebc0dee60aa72145b25986c2661d120
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SwirlLollipopCandy
+    second: {fileID: 2100000, guid: 33045b081d0bc15478b832c8773ae79b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SwirlLollipopStick
+    second: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
   materials:
     materialImportMode: 2
     materialName: 0
